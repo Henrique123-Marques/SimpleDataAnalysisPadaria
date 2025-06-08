@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('C:\Projetos\Python\Data\AnaliseDePadaria\dados\clientes_padaria.csv')
+df = pd.read_csv('C:/Projects/Python/data/SimpleDataAnalysisPadaria/dados/clientes_padaria.csv')
 
 #APP STREAMLIT
 st.title('Projeto Simples de Análise de Dados de uma Padaria fictícia')
